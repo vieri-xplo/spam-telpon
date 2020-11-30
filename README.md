@@ -1,6 +1,6 @@
 # X-Spam
 spam telpon dengan 30 Tools Spam (SMS,Call,Wa).
-# Spam available
+# Spam From
 ```
 - asakita
 - sunchilla 
